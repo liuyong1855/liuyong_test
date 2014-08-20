@@ -1,6 +1,6 @@
 测试
 测试2
 已经 git 到 github上面
-----------branch master start----------
-branch master上修改
-----------branch master end------------
+----------branch master2 start----------
+branch master2上修改
+----------branch master2 end------------
